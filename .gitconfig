@@ -1,10 +1,9 @@
 [alias]
-    co = checkout
     myconfig = config --global -e
     aa = add --all
     au = add --update
     ca = commit --amend
-    cm = commit --message
+    cm = commit -m
     co = checkout
     cp = cherry-pick
     purge = clean -ffdx
