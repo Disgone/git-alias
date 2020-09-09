@@ -6,7 +6,7 @@
     cm = commit -m
     co = checkout
     cp = cherry-pick
-    purge = clean -ffdx
+    purge = clean -fdx
     ls = git ls-files
     dt = difftool
     mt = mergetool
